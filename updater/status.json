@@ -1,0 +1,7 @@
+{
+  "latest-version": 0,
+  "latest-x64": "https://github.com/ReinaStreufert/QuickTabsSrc/releases/download/v0.1.0/QuickTabs-x64.exe",
+  "latest-x86": "https://github.com/ReinaStreufert/QuickTabsSrc/releases/download/v0.1.0/QuickTabs-x86.exe",
+  "dependencies": [],
+  "install-image": "http://reinastreufert.github.io/QuickTabs/updater/QuickTabsDeps.zip"
+}
